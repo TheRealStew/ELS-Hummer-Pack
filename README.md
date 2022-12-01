@@ -19,7 +19,7 @@ add this to your ELS config.lua
 	"h1p1.xml",
 	"h1p2.xml",
 	"h1p3.xml",
-	"h1p4.xml",
+	"h1p4.xml"
 
 boom you got the ELS Hummer Pack
 =====================================
