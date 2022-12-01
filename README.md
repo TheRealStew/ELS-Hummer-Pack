@@ -1,10 +1,6 @@
 # ELS-Hummer-Pack
 FiveM/GTA V Mod 
-
-=====================================
-Thank you for downloading ELS Hummer Pack
-            version 0.1
-=====================================			
+			
 How to add to Fivem 
 
 (Addon)Fivem only
